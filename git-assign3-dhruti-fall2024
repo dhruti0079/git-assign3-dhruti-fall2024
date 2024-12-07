@@ -1,1 +1,2 @@
 git status
+git commit -m "< adds README.md file with description >"
