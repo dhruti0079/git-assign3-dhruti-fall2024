@@ -1,2 +1,3 @@
 git status
 git commit -m "< adds README.md file with description >"
+git commit -m "< adds bio.md file with description >"
